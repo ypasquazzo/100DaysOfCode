@@ -1,0 +1,22 @@
+# Write a function that check is a number is prime or not.
+
+
+def prime_checker(number):
+
+    is_prime = True
+    i = 2
+
+    while i < (n/2):
+        if number % i == 0:
+            is_prime = False
+            break
+        i += 1
+
+    if is_prime:
+        print("It's a prime number.")
+    else:
+        print("It's not a prime number.")
+
+
+n = int(input("Check this number: "))
+prime_checker(number=n)
