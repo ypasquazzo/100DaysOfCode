@@ -45,7 +45,7 @@ def save_password():
 
 # Useful info for layouts: https://riptutorial.com/tkinter/example/29713/grid--
 window = Tk()
-window.title("Password Generator")
+window.title("Password Manager")
 window.config(padx=30, pady=30)
 
 canvas = Canvas(width=200, height=200)
