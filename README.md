@@ -20,6 +20,14 @@ The course consists in 100 days, 1 hour course per day and build 1 project per d
 | [Day 15](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2015): Coffee Machine | [Day 21](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2021): Snake Game (Part. 2) | [Day 27](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2027): Tkinter, *args, **kwargs |
 | [Day 16](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2016): Coffee Machine (OOP) | [Day 22](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2022): Pong Game | [Day 28](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2028): Tkinter, Dynamic Typing |
 | [Day 17](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2017): Quiz Game | [Day 23](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2023): Turtle Crossing Game | [Day 29](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2029): Password Manager |
-| [Day 18](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2018): Turtle GUI | [Day 24](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2024): Files, Directories and Paths | [Day 30](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2030): Errors, Exceptions and JSON Data|
+| [Day 18](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2018): Turtle GUI | [Day 24](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2024): Files, Directories and Paths | [Day 30](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2030): Errors, Exceptions and JSON Data |
 | [Day 19](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2019): Turtle Race | [Day 25](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2025): CSV Data and Panda Library | [Day 31](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2031): Flash Card APP |
 | [Day 20](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2020): Snake Game (Part. 1) | [Day 26](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2026): List comprehension | |
+
+## Intermediate+ level projects
+
+| *** | *** | *** |
+| --- | --- | --- |
+| [Day 32](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2032): Sending Emails and DateTime | [Day 35](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2035): Keys, Authentication & Environment Variables | [Day 38](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2038): Workout Tracking using Google Sheets |
+| [Day 33](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2033): Endpoints and API Parameters | [Day 36](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2036): Stock Trading News Alert | [Day 39](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2039): Flight Deal Finder |
+| [Day 34](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2034): API Practice - GUI Quiz App | [Day 37](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2037): Habit Tracking Project - API Post | [Day 40](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2040): Flight Club |
