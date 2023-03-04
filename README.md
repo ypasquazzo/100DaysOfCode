@@ -31,3 +31,10 @@ The course consists in 100 days, 1 hour course per day and build 1 project per d
 | [Day 32](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2032): Sending Emails and DateTime | [Day 35](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2035): Keys, Authentication & Environment Variables | [Day 38](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2038): Workout Tracking using Google Sheets |
 | [Day 33](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2033): Endpoints and API Parameters | [Day 36](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2036): Stock Trading News Alert | [Day 39](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2039): Flight Deal Finder |
 | [Day 34](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2034): API Practice - GUI Quiz App | [Day 37](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2037): Habit Tracking Project - API Post | [Day 40](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2040): Flight Club |
+
+## Web Foundation
+
+| @ | @ | @ |
+| --- | --- | --- |
+| [Day 41](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2041): Introduction to HTML | [Day 43](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2043): Introduction to CSS | [Day 58](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2058): Bootstrap |
+| [Day 42](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2042): Intermediate HTML | [Day 44](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2044): Intermediate CSS | [Day 65](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2065): Web Design School |
