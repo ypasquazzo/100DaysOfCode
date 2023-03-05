@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact me</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+</head>
+<body>
+    <h1>My contact details</h1>
+    <p>My fictional address.</p>
+    <p>tel: +44123456789</p>
+    <p>mail: something@mail.com</p>
+    <hr>
+    <h1>Send a message</h1>
+    <form action="something@mail.com" method="POST" enctype="text/plain">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required><br><br>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required><br><br>
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" required></textarea><br><br>
+
+      <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
