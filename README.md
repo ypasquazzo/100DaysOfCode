@@ -24,7 +24,7 @@ The course consists in 100 days, 1 hour course per day and build 1 project per d
 | [Day 19](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2019): Turtle Race | [Day 25](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2025): CSV Data and Panda Library | [Day 31](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2031): Flash Card APP |
 | [Day 20](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2020): Snake Game (Part. 1) | [Day 26](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2026): List comprehension | |
 
-## Intermediate+ level projects
+## Intermediate+ level projects [Part I]
 
 | *** | *** | *** |
 | --- | --- | --- |
@@ -38,3 +38,13 @@ The course consists in 100 days, 1 hour course per day and build 1 project per d
 | --- | --- | --- |
 | [Day 41](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2041): Introduction to HTML | [Day 43](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2043): Introduction to CSS | [Day 58](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2058): Bootstrap |
 | [Day 42](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2042): Intermediate HTML | [Day 44](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2044): Intermediate CSS | [Day 65](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2065): Web Design School |
+
+## Intermediate+ level projects [Part II]
+
+| *** | *** | *** |
+| --- | --- | --- |
+| [Day 45](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2045): Web Scraping with BeautifulSoup | [Day 50](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2050): Auto Tinder Swiping Bot | [Day 54](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2054): Introduction to Web Dev with Flask |
+| [Day 46](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2046): Spotify Playlist | [Day 51](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2051): Internet Speed Twitter Complaint Bot | [Day 55](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2055): HTML & URL Parsing in Flask |
+| [Day 47](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2047): Automated Amazon Price Tracker | [Day 52](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2052): Instagram Follower Bot | [Day 56](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2056): Rendering HTML/Static files |
+| [Day 48](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2048): Selenium and Game Playing Bot | [Day 53](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2053): Data Entry Job Automation | [Day 58](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2058): Templating with Jinja in Flask Applications |
+| [Day 49](https://github.com/ypasquazzo/100DaysOfCode/tree/main/Day%2049): Automating Linkedin Applications | | |
