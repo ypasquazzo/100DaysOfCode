@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-Solutions to the Udemy [100DaysOfCode](https://udemy.com/course/100-days-of-code) Python course exercises.
+My solutions to the Udemy [100DaysOfCode](https://udemy.com/course/100-days-of-code) Python course exercises.
 The course consists in 100 days, 1 hour course per day and build 1 project per day.
 
 ## Beginer level projects
