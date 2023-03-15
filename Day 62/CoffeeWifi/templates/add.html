@@ -1,0 +1,70 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+    {{ super() }}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+{% endblock %}
+
+{% block title %}Add A New Cafe{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+
+      <h1>Add a new café into the database</h1>
+
+      <form method="POST" action="{{ url_for('add_cafe') }}" novalidate>
+		{{ form.csrf_token }}
+		<p>
+			{{ form.name.label }} <br> {{ form.name(class_='custom-input form-control') }}
+			{% for err in form.name.errors %}
+				<span style="color: red"> {{ err }}</span>
+			{% endfor %}
+		</p>
+		<p>
+			{{ form.location.label }} <br> {{ form.location(class_='custom-input form-control') }}
+			{% for err in form.location.errors %}
+				<span style="color: red"> {{ err }}</span>
+			{% endfor %}
+		</p>
+		<p>
+			{{ form.o_time.label }} <br> {{ form.o_time(class_='custom-input form-control') }}
+			{% for err in form.o_time.errors %}
+				<span style="color: red"> {{ err }}</span>
+			{% endfor %}
+		</p>
+		<p>
+			{{ form.c_time.label }} <br> {{ form.c_time(class_='custom-input form-control') }}
+			{% for err in form.c_time.errors %}
+				<span style="color: red"> {{ err }}</span>
+			{% endfor %}
+		</p>
+		<p>
+			{{ form.coffe_rating.label }} <br> {{ form.coffe_rating(class_='custom-dropdown form-control') }}
+			{% for err in form.coffe_rating.errors %}
+				<span style="color: red"> {{ err }}</span>
+			{% endfor %}
+		</p>
+		<p>
+			{{ form.strength_rating.label }} <br> {{ form.strength_rating(class_='custom-dropdown form-control') }}
+			{% for err in form.strength_rating.errors %}
+				<span style="color: red"> {{ err }}</span>
+			{% endfor %}
+		</p>
+		<p>
+			{{ form.power_rating.label }} <br> {{ form.power_rating(class_='custom-dropdown form-control') }}
+			{% for err in form.power_rating.errors %}
+				<span style="color: red"> {{ err }}</span>
+			{% endfor %}
+		</p>
+		{{ form.submit }}
+	</form>
+
+	  <p class="space-above"><a href="{{ url_for('cafes') }}">See all cafes</a></p>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
